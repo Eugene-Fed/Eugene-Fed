@@ -27,3 +27,5 @@ Python Backend Developer
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Eugene-Fed"><img src="https://github-readme-stats.vercel.app/api?username=Eugene-Fed&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="Eugene-Fed's GitHub stats" /></a>
+
+Created with [@profileme](https://www.profileme.dev/)
