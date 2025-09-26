@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Backend Developer
 ------------------------
 
-\- Python Course Author at @devmanorg
+\- Python Course Author at [@DevmanSchool](https://github.com/devmanorg)
 
 \- Turning Beginners into Job-Ready Developers
 
